@@ -1,0 +1,4 @@
+[submodule "small"]
+	path = small
+	url = https://github.com/varungupta19/small.git
+	branch = dev
